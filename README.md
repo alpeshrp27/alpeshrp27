@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alpeshrp27
-- 👀 I’m interested in bug hunting
-- 🌱 I’m currently red teaming
+- 👋 Hi, I’m @alpesh prajapati
+- 👀 I’m interested in penetration testing
+- 🌱 I’m currently  learning red teaming
 
 <!---
 alpeshrp27/alpeshrp27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
