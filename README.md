@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alpesh prajapati
+- 👋 Hi, I’m @thakare jayshri sitaram
 - 👀 I’m interested in penetration testing
 - 🌱 I’m currently  learning red teaming
 
